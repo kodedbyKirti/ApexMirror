@@ -16,7 +16,7 @@ It bridges data science, sports analytics, and interactive visualization to give
 - **Export Capabilities**: CSV data export for further analysis
 
 
-==> NOTE= need to run app.py in vs to run the index.html.
+==> NOTE= need to run app.py in the backend part in vs to run the index.html for the feature ANALYSE YOUR LAP.
 ## Tech Stack
 
 ### Backend
@@ -232,5 +232,6 @@ Educational and personal use only. F1 data subject to Formula 1 licensing terms.
 ---
 
 **Built with ⚡ by Apex Mirror Technologies**
+
 
 
