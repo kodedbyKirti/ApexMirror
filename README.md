@@ -2,6 +2,11 @@
 
 AI-powered Formula 1 lap time prediction system using machine learning and real-time telemetry analysis.
 
+##Overview
+
+Apex Mirror is a real-time AI telemetry platform that predicts Formula 1 lap times and driver performance using FastF1 data and machine learning models.
+It bridges data science, sports analytics, and interactive visualization to give fans, engineers, and developers an in-depth look into what defines the perfect lap
+
 ## Features
 
 - **AI-Powered Lap Predictions**: Random Forest ML model with 98% accuracy
@@ -11,7 +16,7 @@ AI-powered Formula 1 lap time prediction system using machine learning and real-
 - **Export Capabilities**: CSV data export for further analysis
 
 
-==> note= need to run app.py in vs to run the index.html.
+==> NOTE= need to run app.py in vs to run the index.html.
 ## Tech Stack
 
 ### Backend
@@ -227,4 +232,5 @@ Educational and personal use only. F1 data subject to Formula 1 licensing terms.
 ---
 
 **Built with ⚡ by Apex Mirror Technologies**
+
 
