@@ -6,11 +6,12 @@ AI-powered Formula 1 lap time prediction system using machine learning and real-
 
 - **AI-Powered Lap Predictions**: Random Forest ML model with 98% accuracy
 - **Real-time Telemetry**: Live session data monitoring
-- **Driver Comparison**: Side-by-side performance analysis
 - **Historical Data Access**: Multi-season F1 data analysis
 - **Interactive Dashboard**: Modern web interface with Chart.js visualizations
 - **Export Capabilities**: CSV data export for further analysis
 
+
+==> note= need to run app.py in vs to run the index.html.
 ## Tech Stack
 
 ### Backend
@@ -226,3 +227,4 @@ Educational and personal use only. F1 data subject to Formula 1 licensing terms.
 ---
 
 **Built with ⚡ by Apex Mirror Technologies**
+
